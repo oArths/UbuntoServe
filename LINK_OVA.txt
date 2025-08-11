@@ -1,0 +1,26 @@
+https://drive.google.com/file/d/1xWiz2FTD27ULoKzT47Sc9Vxx8nsPtpW-/view?usp=sharing
+
+
+
+
+
+\\ 192.168.2.247\ubuntu_linux
+
+
+Cálculo da Média:
+MF = (AP1 + 2.AP2)/3 +Pont_EXPO
+MFcAP3 = ((AP1 + 2.AP2)/3 + 4.AP3)/5 +Pont_EXPO
+Conteúdo:
+- comandos básicos (ls, mkdir, cd ...)
+- comandos de rede (ip a, ip route, ping ...)
+- 
+
+
+
+
+
+
+
+
+
+
